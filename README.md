@@ -51,6 +51,8 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=xin053&theme=redical)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/xin053/xin053/output/github-contribution-grid-snake.svg)
+
 📊 &nbsp;**This week I spent my time on**
 
 <p align="center"><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xin053&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="Wakatime Stats">
