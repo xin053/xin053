@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every 12 hour
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://xin053.github.io/atom.xml,https://blog.csdn.net/zhouzixin053/rss/list"
+          max_post_count: 10
