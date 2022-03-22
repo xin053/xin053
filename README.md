@@ -4,7 +4,12 @@
   <img src=https://img.shields.io/github/followers/xin053?label=follow%20me&style=social />
 </a></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xin053" alt="xin053" /></a> </p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@xin053?theme=rule34">
+  <img src="https://weather-icon.journeyad.repl.co/@wuhan?v=1">
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xin053&theme=monokai&column=8&no-frame=true&no-bg=true" alt="xin053" /></a> </p>
 
 - 🌱 I’m currently learning **golang**
 
@@ -43,10 +48,10 @@
 <p align="center"><img src="https://metrics.lecoq.io/xin053" alt="Github Metrics">
 <br></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xin053&theme=dark" alt="GitHub streak stats">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xin053&theme=cobalt&hide_border=true&currStreakNum=DD2727&sideNums=8D02DD&stroke=DD2727" alt="GitHub streak stats">
 <br></p>
 
-|![](https://github-readme-stats.vercel.app/api?username=xin053&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xin053&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=xin053&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xin053&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&langs_count=10)|
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=xin053&theme=redical)
