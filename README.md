@@ -65,14 +65,14 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [[原]给 k8s nginx-ingress 添加 lvs DR 负载](https://blog.csdn.net/u011459278/article/details/111871083)
-- [[原]openstack neutron qos 实现原理](https://blog.csdn.net/u011459278/article/details/111317101)
-- [[原]LFS（Linux From Scratch）学习笔记](https://blog.csdn.net/u011459278/article/details/108598805)
-- [[原]openstack FWaaS 防火墙项目因缺少维护者被弃用](https://blog.csdn.net/u011459278/article/details/108222021)
-- [[原]openstack heat 编排模板&lpar;HOT&rpar;指南](https://blog.csdn.net/u011459278/article/details/107671241)
-- [[原]kubernetes集群节点资源预留](https://blog.csdn.net/u011459278/article/details/106788423)
-- [[原]交换机配置自动备份](https://blog.csdn.net/u011459278/article/details/106636784)
-- [[原]ceph 对象网关多区部署](https://blog.csdn.net/u011459278/article/details/106420562)
-- [[原]nodelocaldns 造成 coredns hosts 插件失效](https://blog.csdn.net/u011459278/article/details/105416203)
-- [[原]rabbimq operation queue.declare caused a channel exception not_found](https://blog.csdn.net/u011459278/article/details/104575073)
+- [给 k8s nginx-ingress 添加 lvs DR 负载](https://blog.csdn.net/u011459278/article/details/111871083)
+- [openstack neutron qos 实现原理](https://blog.csdn.net/u011459278/article/details/111317101)
+- [LFS（Linux From Scratch）学习笔记](https://blog.csdn.net/u011459278/article/details/108598805)
+- [openstack FWaaS 防火墙项目因缺少维护者被弃用](https://blog.csdn.net/u011459278/article/details/108222021)
+- [openstack heat 编排模板&lpar;HOT&rpar;指南](https://blog.csdn.net/u011459278/article/details/107671241)
+- [kubernetes集群节点资源预留](https://blog.csdn.net/u011459278/article/details/106788423)
+- [交换机配置自动备份](https://blog.csdn.net/u011459278/article/details/106636784)
+- [ceph 对象网关多区部署](https://blog.csdn.net/u011459278/article/details/106420562)
+- [nodelocaldns 造成 coredns hosts 插件失效](https://blog.csdn.net/u011459278/article/details/105416203)
+- [rabbimq operation queue.declare caused a channel exception not_found](https://blog.csdn.net/u011459278/article/details/104575073)
 <!-- BLOG-POST-LIST:END -->
