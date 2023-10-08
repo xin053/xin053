@@ -65,14 +65,14 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [给 k8s nginx-ingress 添加 lvs DR 负载](https://blog.csdn.net/u011459278/article/details/111871083)
-- [openstack neutron qos 实现原理](https://blog.csdn.net/u011459278/article/details/111317101)
-- [LFS（Linux From Scratch）学习笔记](https://blog.csdn.net/u011459278/article/details/108598805)
-- [openstack FWaaS 防火墙项目因缺少维护者被弃用](https://blog.csdn.net/u011459278/article/details/108222021)
-- [openstack heat 编排模板&lpar;HOT&rpar;指南](https://blog.csdn.net/u011459278/article/details/107671241)
-- [kubernetes集群节点资源预留](https://blog.csdn.net/u011459278/article/details/106788423)
-- [交换机配置自动备份](https://blog.csdn.net/u011459278/article/details/106636784)
-- [ceph 对象网关多区部署](https://blog.csdn.net/u011459278/article/details/106420562)
-- [nodelocaldns 造成 coredns hosts 插件失效](https://blog.csdn.net/u011459278/article/details/105416203)
-- [rabbimq operation queue.declare caused a channel exception not_found](https://blog.csdn.net/u011459278/article/details/104575073)
+- [shell编程](https://xin053.github.io/2017/03/10/shell%E7%BC%96%E7%A8%8B/)
+- [linux命令学习](https://xin053.github.io/2017/03/08/linux%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0/)
+- [Python3.6更新内容](https://xin053.github.io/2016/12/23/Python3.6%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9/)
+- [cryptography加密库使用详解](https://xin053.github.io/2016/12/20/cryptography%E5%8A%A0%E5%AF%86%E5%BA%93%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
+- [yagmail邮件发送库使用详解](https://xin053.github.io/2016/12/17/yagmail%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81%E5%BA%93%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
+- [计算机重点问题集锦](https://xin053.github.io/2016/12/10/%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%87%8D%E7%82%B9%E9%97%AE%E9%A2%98%E9%9B%86%E9%94%A6/)
+- [Scrapy爬虫库使用详解](https://xin053.github.io/2016/12/10/Scrapy%E7%88%AC%E8%99%AB%E5%BA%93%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
+- [re正则库使用详解](https://xin053.github.io/2016/12/01/re%E6%AD%A3%E5%88%99%E5%BA%93%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
+- [Python描述符descriptor](https://xin053.github.io/2016/11/29/Python%E6%8F%8F%E8%BF%B0%E7%AC%A6descriptor/)
+- [os库常用方法使用介绍](https://xin053.github.io/2016/11/29/os%E5%BA%93%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/)
 <!-- BLOG-POST-LIST:END -->
